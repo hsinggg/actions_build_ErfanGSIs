@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://cfhcable.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.8.6/xiaomi.eu_multi_MIMAX3_20.8.6_v12-10.zip
+  ROM_URL: https://mirrors.lolinet.com/firmware/lenovo/l38031/L38031_CN_OPEN_USER_M6762_O_MTK_3.9.188_ST_181011.zip
   ROM_NAME: MIUI
   BUILD_AB: false
   BUILD_AONLY: true
